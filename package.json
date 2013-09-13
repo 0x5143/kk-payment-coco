@@ -1,0 +1,19 @@
+{
+  "name": "kk-payment-coco",
+  "version": "0.1.4",
+  "description": "Node.js verification library for coco in app purchase receipts.",
+  "private" : false,
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/huangqingcheng/kk-payment-coco.git"
+  },
+  "keywords": [
+    "Node",
+    "payment",
+    "chukong"
+  ]
+}
