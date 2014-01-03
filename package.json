@@ -1,6 +1,6 @@
 {
   "name": "kk-payment-coco",
-  "version": "0.1.5",
+  "version": "0.2.1",
   "description": "Node.js verification library for coco in app purchase receipts.",
   "private" : false,
   "main": "index.js",
